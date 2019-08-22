@@ -1,0 +1,77 @@
+.edit-budget {
+    width: 480px;
+    height: 405px;
+    border-radius: 12px;
+    background: white;
+    margin: 307px 0 0 672px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.24);
+    position: fixed;
+}
+.edit-budget > .edit-budget-title {
+    margin-left: 24px;
+    margin-top: 19px;
+    display: flex;
+}
+.edit-budget-title > .edit-budget-title-budget {
+    height: 26px;
+    width: 60px;
+    font-size: 19px;
+    font-weight: bold;
+}
+ .edit-budget-title > .edit-budget-title-readonly {
+    color: #1C1A1A;
+    margin-left: 273px;
+    display: flex; 
+    align-items: center; 
+}
+.edit-budget .feel {
+    color: #6D6F75;
+    width: 431px;
+    height: 36px;
+    margin: 6px 0 0 25px;
+    font-size: 13px;
+}
+.edit-budget > div > input {
+    border: 1px solid #A4A4A4;
+    width: 432px;
+    height: 36px;
+    margin-left: 24px;
+    border-radius: 8px;
+    margin-top: 5px;
+    padding-left: 16px;
+}
+.edit-budget .label {
+    height: 17px;
+    margin-left: 24px;
+    white-space: nowrap;
+    font-size: 13px;
+}
+.edit-budget .label1 {
+    margin-top: 21px;
+    width: 77px;
+}
+.edit-budget .label2 {
+    width: 66px;
+    margin-top: 13px;
+}
+.edit-budget .label3 {
+    width: 89px;
+    margin-top: 18px;
+}
+.cancel-edit-budget-btn {
+    width: 92px;
+    height: 36px;
+    border: 1px solid #ECECEC;
+    margin: 40px 0  0  212px;
+    border-radius: 8px;
+    background: transparent;
+}
+.create-edit-budget-btn {
+    width: 140px;
+    height: 36px;
+    border-radius: 8px;
+    margin-left: 12px;
+    background: #3798F3;
+    color: white;
+    border: none;
+}

@@ -1,0 +1,36 @@
+.sort {
+    width: 233px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    
+    
+}
+.sort-by {
+    width: 58px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+}
+.sort-by-title {
+    color: #6d6f75;
+    width: 47px;
+    height: 19px;
+    white-space: nowrap;
+}
+.created-at {
+    color: #6d6f75;
+    width: 175px;
+    height: 44px;
+    background: white;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+}
+.created-at .css-tj5bde-Svg {
+    color: white;
+}
+
+
+

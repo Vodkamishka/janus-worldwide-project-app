@@ -1,0 +1,8 @@
+.middle-elements {
+    left: 37.5%; /*36px*/
+    position: absolute;
+    top: 197px; /*197px*/
+}
+.projects-non-active {
+    margin: 24px 0 24px 0;
+}

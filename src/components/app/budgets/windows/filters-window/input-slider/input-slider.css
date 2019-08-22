@@ -1,0 +1,38 @@
+
+/*Amount total range*/
+
+.amount-total-range {
+    position: relative;
+    height: 116px;
+}
+.amount-total-range > span {
+    width: 126px;
+    height: 17px;
+    font-size: 13px;
+    position: absolute;
+    left: 29px;
+    top: 20px;
+}
+.filter-plus-minus {
+    position:absolute;
+    top: 48px;
+}
+.filter-plus-minus > div > img{
+    width: 20px;
+    height: 20px;
+}
+.twix1 {
+    left: 29px;
+}
+.twix2 {
+    left: 432px;
+}
+
+.slider-container {
+    left: 58px;
+    position: absolute;
+    top: 73px;
+    width: 367px;
+    height: 16px;
+}
+

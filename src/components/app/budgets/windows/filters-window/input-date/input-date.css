@@ -1,0 +1,43 @@
+.created-date {
+    height: 102px;
+    position: relative;
+}
+.app .filters-window .created-date {
+    display: flex;
+    flex-direction: column;
+}
+.created-date > span {
+    width: 74px;
+    height: 17px;
+    margin: 24px 0 5px 29px;
+    font-size: 13px;
+}
+.filters_line {
+    position: absolute;
+    bottom: 0;
+    left: 28px;
+    width: 424px;
+    height: 2px;
+    background: #ECECEC;
+}
+
+.created-date input {
+    width: 424px;
+    height: 36px;
+    border-radius: 8px;
+    border: 1px solid #A4A4A4;
+    margin-left: 28px;
+    outline: none;
+    padding-left: 11px;
+    font-family: 'Open Sans', sans-serif !important;  
+}
+.created-date .react-datepicker-popper {
+    z-index: 100 !important;
+    margin-left: 28px;
+}
+.created-date .react-datepicker__day--selected  {
+    background: #157EE1 !important;
+}
+.create-data .react-datepicker__triangle {
+   left: 18px !important;
+}
