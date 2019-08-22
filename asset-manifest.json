@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/janus-worldwide-project-app/static/css/main.30f1cc7c.chunk.css",
+    "main.js": "/janus-worldwide-project-app/static/js/main.a629fbe4.chunk.js",
+    "main.js.map": "/janus-worldwide-project-app/static/js/main.a629fbe4.chunk.js.map",
+    "runtime~main.js": "/janus-worldwide-project-app/static/js/runtime~main.2a12825e.js",
+    "runtime~main.js.map": "/janus-worldwide-project-app/static/js/runtime~main.2a12825e.js.map",
+    "static/css/2.cc034990.chunk.css": "/janus-worldwide-project-app/static/css/2.cc034990.chunk.css",
+    "static/js/2.64995e9a.chunk.js": "/janus-worldwide-project-app/static/js/2.64995e9a.chunk.js",
+    "static/js/2.64995e9a.chunk.js.map": "/janus-worldwide-project-app/static/js/2.64995e9a.chunk.js.map",
+    "index.html": "/janus-worldwide-project-app/index.html",
+    "precache-manifest.1756b6a752f28fce7c8bdac817756dd7.js": "/janus-worldwide-project-app/precache-manifest.1756b6a752f28fce7c8bdac817756dd7.js",
+    "service-worker.js": "/janus-worldwide-project-app/service-worker.js",
+    "static/css/2.cc034990.chunk.css.map": "/janus-worldwide-project-app/static/css/2.cc034990.chunk.css.map",
+    "static/css/main.30f1cc7c.chunk.css.map": "/janus-worldwide-project-app/static/css/main.30f1cc7c.chunk.css.map"
+  }
+}
